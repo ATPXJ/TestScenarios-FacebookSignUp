@@ -6,7 +6,7 @@ This project comprises test scenarios for the Facebook sign-up functionality. Th
 
 ## File Structure
 
-Within this repository, you will find a file named FacebookSignup.md. This Markdown file outlines the test scenarios devised from the Facebook Sign Up page.
+Within this repository, you will find a file named [FacebookSignup.md](https://github.com/ATPXJ/TestScenarios-FacebookSignUp/blob/main/FacebookSignup.md) This Markdown file outlines the test scenarios devised from the Facebook Sign Up page.
 
 ## Additional Resources
 
